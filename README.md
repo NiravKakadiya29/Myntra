@@ -34,7 +34,7 @@ This is a clone of the Myntra app built using Flutter framework. It aims to repl
    git clone <repository-url>
 
 2. Navigate to the project directory:
-   cd ecom-app
+   cd Myntra
 
 3. Install the dependencies:
    flutter pub get
